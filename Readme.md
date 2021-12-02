@@ -6,7 +6,7 @@ Descrição: O projeto foi criado na 3º semana do curso de web fullstack da Lab
 
 Ferramentas utilizdas: HTML e CSS.
 
-Deploy: portfolio1-guilhermeamaral.surge.sh
+Deploy: http://portfolio1-guilhermeamaral.surge.sh/
 
 Página 100% estatica
 
